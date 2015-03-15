@@ -27,12 +27,8 @@ PRODUCT_PACKAGES := \
 	Fallback \
 	GestureBuilder \
 	librs_jni \
-	libwnndict \
-	libWnnEngDic \
-	libWnnJpnDic \
 	LiveWallpapersPicker \
 	Music \
-	OpenWnn \
 	rild \
 	SdkSetup \
 	SmokeTest \
