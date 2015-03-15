@@ -33,7 +33,6 @@ PRODUCT_PACKAGES := \
 	LiveWallpapersPicker \
 	Music \
 	OpenWnn \
-	Protips \
 	rild \
 	SdkSetup \
 	SmokeTest \
