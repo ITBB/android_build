@@ -42,7 +42,6 @@ PRODUCT_PACKAGES += \
     LatinIME \
     Launcher2 \
     ManagedProvisioning \
-    PicoTts \
     PacProcessor \
     libpac \
     PrintSpooler \
