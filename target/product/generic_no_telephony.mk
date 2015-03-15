@@ -19,7 +19,6 @@
 
 PRODUCT_PACKAGES := \
     Bluetooth \
-    Music \
     MusicFX \
     OneTimeInitializer \
     SystemUI \
